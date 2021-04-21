@@ -1,16 +1,13 @@
-### Hi there 👋
+# hi.
 
-<!--
-**MoonRun3s/MoonRun3s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### who am i.
+i'm moon, a frontend programmer from upstate ny that makes things look pretty.
 
-Here are some ideas to get you started:
+###### what do i do.
+i specialize in discord bots, html5, css, node.js development and anything else that looks cool.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### how do i do it.
+with a bit of magic and countless hours of reading stackoverflow guides, my main tools for making my random projects are visual studio, visual studio code, replit and git-scm.
+
+
+> "how did i do that. wait, it works? what." - me, probably not too long ago.
