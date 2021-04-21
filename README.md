@@ -1,7 +1,7 @@
 # hi.
 
 ###### who am i.
-i'm moon, a frontend programmer from upstate ny that makes things look pretty.
+i'm moon, a front-end programmer from upstate ny that makes things look pretty.
 
 ###### what do i do.
 i specialize in discord bots, html5, css, node.js development and anything else that looks cool.
