@@ -1,12 +1,12 @@
 # hi.
 
-###### who am i.
+#### who am i. ========================
 i'm moon, a front-end programmer from upstate ny that makes things look pretty.
 
-###### what do i do.
-i specialize in discord bots, html5, css, node.js development and anything else that looks cool.
+#### what do i do. =====================
+i specialize in html5, css, node.js development and anything else that looks cool.
 
-###### how do i do it.
+#### how do i do it. ====================
 with a bit of magic and countless hours of reading stackoverflow guides, my main tools for making my random projects are visual studio, visual studio code, replit and git-scm.
 
 
